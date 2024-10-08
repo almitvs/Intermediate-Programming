@@ -1,0 +1,10 @@
+TEAM
+Aidan Alme aalme2
+Kelvin Wang kwang124
+Bob Dong bdong9
+
+DESIGN
+Overall the design does not differ much from what was layed out in the starter code. The main function runs a loop which takes user inputs, checks if moves are valid, and checks the game state. We used brute force methods involving iterating through possible moves to implement game state functions like check, checkmate, and stalemate. For point_value we added a virtual function to Piece.h and overloaded this in all of the pieces. To count a player's points we iterate through the board to find pieces of the right color and call their version of the function. For our display we chose colors based on contrast and visibility.
+
+COMPLETENESS
+Everything should be complete

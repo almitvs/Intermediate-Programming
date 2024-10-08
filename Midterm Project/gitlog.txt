@@ -1,0 +1,388 @@
+commit bfca7ba310580e8c65070524d344d27db66f4b1e
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Mar 12 20:31:36 2024 -0400
+
+    Added comments to code
+
+commit 55511f60e8d23b3ece39400bf345251ae20a8ef2
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Mar 12 20:26:04 2024 -0400
+
+    Image
+
+commit 02b49b287d8cdaa99e2860849d49baaa0cc07886
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Tue Mar 12 12:02:38 2024 -0400
+
+    fixed saturate
+
+commit 9bbdb50be0159beff12a53c640a5bd7beff03dae
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Tue Mar 12 11:11:19 2024 -0400
+
+    pointilism debugged
+
+commit 41b8a2ddd95f194b9769a7b330114169abe14dad
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Mar 12 11:05:20 2024 -0400
+
+    Successfully debugged blur and tested it with different values of sigma using img_cmp
+
+commit 536b9307146ca970aa5fbd541b78ee5e608656c0
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Mar 12 11:00:52 2024 -0400
+
+    Further debugging of blur
+
+commit 937dff3fa226fb105e5452b01916071da1f7bfc1
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Mar 12 10:44:23 2024 -0400
+
+    Attempted to debug blur
+
+commit 52df307a21aaefb9e6455bedaecbcafc0919c68f
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 11 22:02:20 2024 -0400
+
+    New pointilism test
+
+commit f2927f26b53f45e766e0d1f1110561f78ae785e0
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 11 22:01:38 2024 -0400
+
+    Tested new pointilism function (Did not work better)
+
+commit 963696497649a35192c5e1190980963984bf5d5d
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 11 17:50:29 2024 -0400
+
+    general update
+
+commit f53bec34f10a15c8c7337bd00163e6aeb293d03e
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 11 17:37:46 2024 -0400
+
+    pointilism debugging stage 1
+
+commit b38be055a6df6565bdd88b289de2274059999b05
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 11 16:51:54 2024 -0400
+
+    saturate commented
+
+commit 966cf9dab038c034354e25c2439e8ae5d1c75cf3
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 11 16:39:21 2024 -0400
+
+    pointilism commented but not debugged
+
+commit e7ad1d309c40f37353e1639e1407cc24998db981
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 11 15:50:26 2024 -0400
+
+    blend function fixed and commented, ready to go
+
+commit d581b047d8edb4a170cd5a20d00c49ec4a36d890
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 11 11:13:23 2024 -0400
+
+    pointilism fixed
+
+commit bd9aa1f4293e7e43d73de7dc14a5f064af3c6d2c
+Merge: fef5747 cd6fbef
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 11 10:57:37 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-midterm-aalme2-bdong9
+
+commit cd6fbefda18ccc3dd5797ede595ef55daca879c5
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 11 10:57:24 2024 -0400
+
+    deleted old files
+
+commit fef5747411223fe10e9f82ce92487d01fcd51ad9
+Merge: 53e8d08 3d3c885
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 11 10:49:02 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-midterm-aalme2-bdong9
+
+commit 53e8d08536c35dab27e922af612ebbdc11fa3270
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 11 10:48:57 2024 -0400
+
+    debugged functions in image_manip.c
+
+commit 3d3c88534a558a568acf2a70d7ff8d45ab0ec574
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 11 10:47:57 2024 -0400
+
+    Tested image comparisons for debugging
+
+commit 7f3f5f7492de9f8815396a1f34d6507a56229751
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 11 10:29:45 2024 -0400
+
+    Debugged math functions in image_manip.c
+
+commit 9c7811142934584544ee5baf44fea022bb8b22ad
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Mar 10 20:26:43 2024 -0400
+
+    Debugged blur and pointilism functions
+
+commit 881fe5ad96d8c76c3136c7a5b5f8553ac35d25ba
+Merge: 7f9d263 88d7f03
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Mar 10 20:19:29 2024 -0400
+
+    General update
+
+commit 7f9d26346540e8f2c8a930ab07ae47d7a6c06250
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Mar 10 20:16:46 2024 -0400
+
+    general update
+
+commit 88d7f036e0104bf55315135a7317ecf65f858db1
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sun Mar 10 20:14:13 2024 -0400
+
+    pointilism fixed
+
+commit 1131acd63e427107047bebe0260739502a969e72
+Merge: 79291c5 b6d8ace
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Mar 10 20:11:05 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-midterm-aalme2-bdong9
+
+commit 79291c53c394943ede50ad8f8fa35a04d1760dca
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Mar 10 20:11:02 2024 -0400
+
+    Debugged project.c
+
+commit b6d8acefa6cbbd2e0de8abea9f0e668e2944a758
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sun Mar 10 20:10:22 2024 -0400
+
+    pointlism, blur, and saturate complemented and fixed
+
+commit d58b5dcb346aa51614be1e707ad2b12ed1f65893
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Mar 10 19:41:25 2024 -0400
+
+    Edited the README to include names and IDs
+
+commit af8bac217d4630c0e25d7c6a4da615b287fa3c91
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Mar 10 19:38:28 2024 -0400
+
+    Finished implementation of project.c main() function
+
+commit ccf08485d95c8554ea53aa728f61ee4bb110d23a
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sun Mar 10 18:04:03 2024 -0400
+
+    blend and pointllism complemented
+
+commit 6cbaf13e2e693fdde7e1147e12a3ac3693facd98
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Mar 10 18:01:51 2024 -0400
+
+    Paritally implemented main() in project.c
+
+commit 1806a200803c7c68894d56f22aef4e1db3328156
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Mar 10 15:30:11 2024 -0400
+
+    Implemented the blur function
+
+commit f6c35c01ccb439de3e5cf0381d5840987f786ea5
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Mar 10 13:07:56 2024 -0400
+
+    Debugged image_manip.c
+
+commit 2dba9f19d60f4dc835b1cfcd7ba80e7913dbec39
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Mar 10 13:04:23 2024 -0400
+
+    Wrote first draft of rotate_ccw
+
+commit fa8946f67a530f1b135ba802eb1b33995c2b6d24
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Mar 10 12:27:04 2024 -0400
+
+    Wrote first draft of grayscale
+
+commit 5ef07daf7894ec5d18d65e46b3194a4db9132973
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Mar 10 12:13:04 2024 -0400
+
+    Declared functions in image_manip.c
+
+commit 03fca3a8bb3bb8cc27a90cf4106b57c81ac49193
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Mar 10 12:01:20 2024 -0400
+
+    Created and tested Makefile
+
+commit 9009807165134567a72e8a92dce5833539b3a3c5
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Mar 9 20:05:35 2024 -0500
+
+    Debugged ppm_io.c functions using checkboard and img_cmp to test
+
+commit d10174d54c53348c94f27eca5c20a572989f5121
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Mar 9 18:34:14 2024 -0500
+
+    Further implemented ppn_io.c functions
+
+commit fa94d5596b42096f5b96616967576c1d948e062a
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Mar 9 17:20:16 2024 -0500
+
+    Began implementing write_ppm, make_image, and free_image
+
+commit f300ee5376810b00f0b4bace02ed019c1d7f7a0f
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Wed Mar 6 19:12:57 2024 -0500
+
+    update img_cmp.c
+
+commit aaf7a95ffd72b62b523ff2a1392b4085bbf43dda
+Merge: 4088e89 4e7ee66
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Tue Mar 5 19:21:37 2024 -0500
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-midterm-aalme2-bdong9
+
+commit 4088e8961eea64197aa386b28ab2865e7bee2c3c
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Tue Mar 5 19:20:41 2024 -0500
+
+    added new checkerboard.c and img_cmp.c files
+
+commit 4e7ee66d2be16eb4a2b67dc2b6fae276a76daa11
+Merge: 274bcb3 854e165
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 4 10:48:02 2024 -0500
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-midterm-aalme2-bdong9
+
+commit 274bcb335f81763f6d187f811e7961007afdd832
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 4 10:47:59 2024 -0500
+
+    Functions
+
+commit 854e165c0056097a3d0f5e302b62aa13ab36a722
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 4 10:47:28 2024 -0500
+
+    test cdsfrsf
+
+commit 86228a060c1a93a39b85c643903b4012fd01e0f9
+Merge: 13fffb0 4edb103
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 4 10:45:18 2024 -0500
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-midterm-aalme2-bdong9
+
+commit 13fffb0c3eea5dcd397fedea7f84cc2506a437c2
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 4 10:45:10 2024 -0500
+
+    Functions
+
+commit 4edb103e14dd757f3c7d7acf511a8901ee5a5c66
+Merge: 99eda60 ae5fa72
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 4 10:40:30 2024 -0500
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-midterm-aalme2-bdong9
+
+commit 99eda6071543ce573d6a590e041a39241bde96c0
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 4 10:40:22 2024 -0500
+
+    test 22
+
+commit ae5fa72cbf735e4770ea63377b1a850920a2aabc
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 4 10:40:02 2024 -0500
+
+    Test 2
+
+commit fd87580ae9b64493ea6b8d575a75911a20386127
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 4 10:38:44 2024 -0500
+
+    Test 2
+
+commit 1d8aaf6a9dc94986f1785136d98ed3ffb382978e
+Merge: 1f54523 2877948
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 4 10:37:09 2024 -0500
+
+    Testing simeltaneous editing
+
+commit 287794840a52cf3f938aad07d1206d88ad1998e4
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 4 10:34:50 2024 -0500
+
+    test2
+
+commit 1f54523240a50499b37ba373383c76b5bc0df4a2
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 4 10:34:48 2024 -0500
+
+    Testing simeltaneous editing
+
+commit 3adc4538a3096cc5ec824df9b30a24b53a102772
+Merge: 9e2c135 1e1371e
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 4 10:33:07 2024 -0500
+
+    test
+
+commit 9e2c135f314c602fa5d113d17578c517bcc815cc
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 4 10:26:24 2024 -0500
+
+    test
+
+commit 1e1371e0567057a94a468ecb6123dc70a9ba1af0
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 4 10:26:10 2024 -0500
+
+    Testing simeltaneous editing
+
+commit b78f6b697ff4f6bcc50fa78d4cc6d3f403ed5d56
+Merge: ec519d3 986ee4c
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 4 10:21:47 2024 -0500
+
+    test:wqMerge branch 'master' of github.com:jhu-ip/2024-spring-midterm-aalme2-bdong9
+
+commit ec519d3094d5265345d1d2a9c8f13ea4331d9a23
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Mar 4 10:19:10 2024 -0500
+
+    test
+
+commit 7754c3addc04ae55d038ee6267d98c11cb30b02f
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Fri Mar 1 10:11:12 2024 -0500
+
+    initial commit of unedited files
+
+commit 9bdf735eab9b824b392ac843de975e0d6849e20f
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Thu Feb 29 21:41:27 2024 -0500
+
+    add README

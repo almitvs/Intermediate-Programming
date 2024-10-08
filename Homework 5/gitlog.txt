@@ -1,0 +1,437 @@
+commit 148ab1e7f0a21158be77037788c4d35829b7f7d9
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Mar 28 19:39:34 2024 -0400
+
+    Implemented and debugged prompting for user queries
+
+commit fc47cdff85175d5eaf777aac058da8a46faeede9
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Mar 28 14:38:23 2024 -0400
+
+    Successfully debugged print count order
+
+commit 07823eac990b44572b46a7cee40c0ec1ef2175f3
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Mar 28 13:54:55 2024 -0400
+
+    Eliminated all compilation erros
+
+commit b5b59325d07e558cf6bc471e534e95c4529fe3e9
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Mar 27 14:44:35 2024 -0400
+
+    Debugged digraph functions, cleared up syntax issues
+
+commit 252d3e633d6c3697c9d732cabab00f77f9fb0ce8
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Mar 27 10:58:40 2024 -0400
+
+    Finished ex26
+
+commit 52d349063f56d3c7de82ea3a976014cdd2899384
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Mar 26 14:51:16 2024 -0400
+
+    Began debugging
+
+commit 5564b6416788df31ba3707d58d402520656e1c30
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Mar 26 14:21:37 2024 -0400
+
+    Called helper functions in main
+
+commit 58d6457e0f0664cc7f6abf6cd47e3181b3838ec8
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Mar 26 14:14:34 2024 -0400
+
+    Implemented printing by frequency order
+
+commit 95e6d1bf681a7d76c5a857d3fc1bc498377aed08
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Mar 25 13:03:34 2024 -0400
+
+    exercises
+
+commit 00fa3c220573fe8f7ce03ec91b29f5614eba6ba0
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Mar 23 11:43:17 2024 -0400
+
+    Implemented print functions for sorted data
+
+commit 0d14d0cd1ddd5579402ff87e0dc981cdd9fa4c1a
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Mar 23 11:30:20 2024 -0400
+
+    Continued to factor main functions into distinct functions and edited them
+
+commit adc7c8c323b511e8ef5d6986cec1075050caaa89
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Fri Mar 22 16:56:08 2024 -0400
+
+    Factored main into multiple functions
+
+commit 6c5ca2c4011a10eef98ff2f1ecf0fbf82632b361
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Fri Mar 22 16:29:18 2024 -0400
+
+    Implemented input file reading of number of di/trigraphs and their characters
+
+commit 8c8883269ff06c4170a713b7613809e0bf115bd1
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Fri Mar 22 12:42:31 2024 -0400
+
+    ex23
+
+commit 94d98f14c14fdf911a90e95546ba7963a29fb676
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Fri Mar 22 12:19:36 2024 -0400
+
+    Ex24
+
+commit 65a08e7ff364fffa81f52f7b1fa8e77782897f4a
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Mar 7 11:47:56 2024 -0500
+
+    Ex17
+
+commit 231eafa162ab2386a5a6d4458dc6f73bff0e58fb
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Mar 2 21:04:26 2024 -0500
+
+    Exercises
+
+commit f8b33886319320329764c6ea80877efd50973f33
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Mar 2 17:12:57 2024 -0500
+
+    ex05
+
+commit 03580844ea2e53b1cd0ca3a360e92ac96c1f6c50
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Mar 2 16:17:45 2024 -0500
+
+    Debugging
+
+commit c85bb86a7da917ca7d32be0e720869f563db471b
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Fri Feb 23 16:22:28 2024 -0500
+
+    Added test for invalid file
+
+commit 57fb2b003b51147e24a44c77c2116d0c20834666
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Fri Feb 23 16:20:18 2024 -0500
+
+    Created tests in test_search_functions.c
+
+commit 73a88037811ea11d25b799f00fd2891f6255fdb5
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Fri Feb 23 15:09:46 2024 -0500
+
+    Debugged search functions for edge cases
+
+commit c931729735180c93087837d5f6a9380da79d6377
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Feb 22 21:30:17 2024 -0500
+
+    Debugged improper grid sizes
+
+commit 7e92417533fb6b22b70d905cf56bc0f2aac96857
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Feb 22 19:30:28 2024 -0500
+
+    Debugged search functions
+
+commit 630281c0c85c116e690b7562df843739d35e1f0b
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Feb 22 15:14:43 2024 -0500
+
+    Debugged input grid to stop reading with new line
+
+commit a6a7a5d3c4705a346cbe6f36946090476d549fc0
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Feb 22 14:42:56 2024 -0500
+
+    Debugged input_grid so file was actually read
+
+commit 9b9573c512e62f35d6ce6dbdf247964e6c390c94
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Feb 22 11:27:54 2024 -0500
+
+    Edited word_search.c to store user input for words to find
+
+commit b21c473a79ebf5e9fe7774657e566033e56f2a16
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Feb 21 15:26:09 2024 -0500
+
+    Edited word_search.c so it would exit for improper grids
+
+commit 687a44b92a0fb1077818ce15055d5bb5ca1df15b
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Feb 21 15:03:37 2024 -0500
+
+    Implemented all find functions (right, left, down, up, & all) for words within the grid
+
+commit a23d95c57fea2af981a64bdda3c77e55152ef9fd
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Feb 21 13:54:46 2024 -0500
+
+    Changed input_grid to throw errors for invalid grids
+
+commit 64f736f2d4c58dacc0694c24898100542e3d03a6
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Feb 21 13:07:13 2024 -0500
+
+    Created a Makefile to link and compile related files
+
+commit a9dc0ad7021cec67484ab1d77af8354a04b4336d
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Feb 20 21:43:14 2024 -0500
+
+    Implemented populate_grid function to read user input and store it in a 2D array
+
+commit 3d446e821221c6820202e692d0be4cdd2075e9eb
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Feb 20 21:01:13 2024 -0500
+
+    Copied hw3 from public repository
+
+commit e866ea736545ead5101ea331e41dc865ac2bf5d5
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Feb 20 11:04:25 2024 -0500
+
+    ex02
+
+commit fbc465f73a75190110b463b01953603f6266eee0
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Feb 20 11:03:47 2024 -0500
+
+    ex03b
+
+commit b3b28b7ba692e182b64d5db448ce79ca609ad369
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Feb 19 13:54:21 2024 -0500
+
+    ex13
+
+commit 7fca253df8150d92ce38ce0dcdf0913d119d53aa
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Feb 17 19:38:54 2024 -0500
+
+    Exercises
+
+commit eb9f4e241fee760e357ee3f5533bc68af491521a
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Feb 17 18:11:09 2024 -0500
+
+    ex09
+
+commit 63ca51b26119e990cf6f6d72bb568aa786820d4a
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Feb 17 15:33:54 2024 -0500
+
+    Completed ex11
+
+commit 7b6159d57ac6cfda80a10fb72490e4b7c68493a6
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Feb 13 20:42:55 2024 -0500
+
+    ex04
+
+commit 4348d8b4476418f8acde39a4e4ffc0c07cdb709f
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Feb 13 16:52:24 2024 -0500
+
+    Edited ex10
+
+commit 36e6fb4de2cd75f12580df7115f352bedf27e234
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Feb 13 16:35:29 2024 -0500
+
+    Edited ex10
+
+commit 4aa9a052c400b92a2609a88126f81d39c5b19bd7
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Feb 13 16:28:41 2024 -0500
+
+    Edited ex10
+
+commit 37a2d80d29dd3b4c28e79fdd8f3fad2c1f384417
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Feb 13 16:21:14 2024 -0500
+
+    Edited ex10
+
+commit 64e23ecfdce59610b47ed194b47bc60491e98568
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Feb 12 11:02:55 2024 -0500
+
+    Completed ex10
+
+commit 99d86a7e5bc1be1ef042c30e3bfa7b8f3a4cb540
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Fri Feb 9 10:52:02 2024 -0500
+
+    Completed ex08
+
+commit 443ba978764a65fb09e4046def99b5d7049a73f6
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Feb 7 16:50:39 2024 -0500
+
+    Annotated coins.c
+
+commit db0adbc75eb5198404a9c48f4184965a1ffd164f
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Feb 7 14:22:19 2024 -0500
+
+    Debugged coins.c
+
+commit a852158fe77a8b5017b4671a7211ba445982c1d8
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Feb 7 14:03:37 2024 -0500
+
+    Debugged coins.c
+
+commit fdf96d947d59d79ca7cc1a2499eed756b73d67a3
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Feb 7 13:56:54 2024 -0500
+
+    Updated coins.c
+
+commit 6db1bfd4ffde91e3ca0a572127a1484210de09f3
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Feb 7 11:13:47 2024 -0500
+
+    Created ex08
+
+commit d3a9e21f9af18af4c2b195107c8a438ad83ef4c6
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Feb 7 10:19:26 2024 -0500
+
+    Updated coins.c
+
+commit 6d7ef10744fe00408cdc18f3ad5b606da7a432ec
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Feb 7 08:44:14 2024 -0500
+
+    Edited coins.c
+
+commit a10586a7666380ba60dc1323a73a530af4f99f6c
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Feb 5 11:13:47 2024 -0500
+
+    Updated functions.c
+
+commit 82dc71329f8907d72f578003ee25cc30f7de61f2
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Feb 5 10:22:12 2024 -0500
+
+    Created ex07
+
+commit c6cd56009728fb15a717875f34eb7c908c723505
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Feb 5 08:36:35 2024 -0500
+
+    created coins.c and created hw1
+
+commit 83182dcc77dcfaab4d979533d1dde2ce295b27e5
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 11:53:20 2024 +0200
+
+    Delete homework/hw0/a.out
+
+commit 7fd475399198ba1be76f0e095d066f7b7a39208f
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 11:53:10 2024 +0200
+
+    Delete homework/hw0/one.c~
+
+commit f303b4403fae7978d1b12080737458e7707fc5b3
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Jan 29 04:52:37 2024 -0500
+
+    moved
+
+commit 74ab0cc377b255745f638cf8df1296e59052070f
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 11:44:50 2024 +0200
+
+    Delete Test
+
+commit 2c4bfc1dfa3e72734c288dfa60921a47eae25698
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 11:44:37 2024 +0200
+
+    Delete README.md
+
+commit be0cf320ed8d1d361861682c51a1d060db7f5f49
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 11:44:16 2024 +0200
+
+    Delete 2024-spring-student-aalme2/homework/hw0 directory
+
+commit 0d7c7064d58749434e5bc93145bd5f2f34669214
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Jan 29 04:20:55 2024 -0500
+
+    created one.c
+
+commit efd6bd3273a5d2ff19e7568364ef7e04f3837304
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:56:54 2024 +0200
+
+    Delete homework/hw0 directory
+
+commit c194ffc361181c095a5b4ed679242c3143f8ba47
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:42:14 2024 +0200
+
+    Update three.c
+
+commit 504e71fa8d13b4d3258b1a8f708c5dcb3c66f98f
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:41:17 2024 +0200
+
+    Update two.c
+
+commit 1c0e8acdf78eedcb896fa05fcb69525bc22cf279
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:40:10 2024 +0200
+
+    Update one.c
+
+commit eb11d961324edf74632777136ee6d8b004ffcc59
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:35:54 2024 +0200
+
+    Create three.c
+
+commit 2a5fd1d36721ae6aa15d4763f60cb4aa93719416
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:35:29 2024 +0200
+
+    Update one.c
+
+commit fca71a4c618426b9cf27c5136d5c869aeca61618
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:35:17 2024 +0200
+
+    Create two.c
+
+commit 61548a9e78357d124bc67d8963749b2b7e54429a
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:33:16 2024 +0200
+
+    Create one.c
+
+commit dc225be424c997621a287253ee7460c01984780f
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Sun Jan 28 19:01:31 2024 +0200
+
+    Create README.md
+
+commit 16929b55fc6351bc9f4a278fbb0f57160bf1c1ca
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Sun Jan 28 18:29:21 2024 +0200
+
+    Create Test

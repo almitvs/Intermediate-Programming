@@ -1,0 +1,101 @@
+commit 83182dcc77dcfaab4d979533d1dde2ce295b27e5
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 11:53:20 2024 +0200
+
+    Delete homework/hw0/a.out
+
+commit 7fd475399198ba1be76f0e095d066f7b7a39208f
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 11:53:10 2024 +0200
+
+    Delete homework/hw0/one.c~
+
+commit f303b4403fae7978d1b12080737458e7707fc5b3
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Jan 29 04:52:37 2024 -0500
+
+    moved
+
+commit 74ab0cc377b255745f638cf8df1296e59052070f
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 11:44:50 2024 +0200
+
+    Delete Test
+
+commit 2c4bfc1dfa3e72734c288dfa60921a47eae25698
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 11:44:37 2024 +0200
+
+    Delete README.md
+
+commit be0cf320ed8d1d361861682c51a1d060db7f5f49
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 11:44:16 2024 +0200
+
+    Delete 2024-spring-student-aalme2/homework/hw0 directory
+
+commit 0d7c7064d58749434e5bc93145bd5f2f34669214
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Jan 29 04:20:55 2024 -0500
+
+    created one.c
+
+commit efd6bd3273a5d2ff19e7568364ef7e04f3837304
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:56:54 2024 +0200
+
+    Delete homework/hw0 directory
+
+commit c194ffc361181c095a5b4ed679242c3143f8ba47
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:42:14 2024 +0200
+
+    Update three.c
+
+commit 504e71fa8d13b4d3258b1a8f708c5dcb3c66f98f
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:41:17 2024 +0200
+
+    Update two.c
+
+commit 1c0e8acdf78eedcb896fa05fcb69525bc22cf279
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:40:10 2024 +0200
+
+    Update one.c
+
+commit eb11d961324edf74632777136ee6d8b004ffcc59
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:35:54 2024 +0200
+
+    Create three.c
+
+commit 2a5fd1d36721ae6aa15d4763f60cb4aa93719416
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:35:29 2024 +0200
+
+    Update one.c
+
+commit fca71a4c618426b9cf27c5136d5c869aeca61618
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:35:17 2024 +0200
+
+    Create two.c
+
+commit 61548a9e78357d124bc67d8963749b2b7e54429a
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Mon Jan 29 09:33:16 2024 +0200
+
+    Create one.c
+
+commit dc225be424c997621a287253ee7460c01984780f
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Sun Jan 28 19:01:31 2024 +0200
+
+    Create README.md
+
+commit 16929b55fc6351bc9f4a278fbb0f57160bf1c1ca
+Author: almitvs <147647012+almitvs@users.noreply.github.com>
+Date:   Sun Jan 28 18:29:21 2024 +0200
+
+    Create Test

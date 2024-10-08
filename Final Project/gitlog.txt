@@ -1,0 +1,832 @@
+commit 0a777a104500156a4d1b331baa9867b2a9ed1674
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 22:47:27 2024 -0400
+
+    Leaks
+
+commit 001bb0e255c726e4267253993eb9edd1ba621570
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 22:37:02 2024 -0400
+
+    Fixed most memory leaks
+
+commit 674700106b5234856d8ded83b2597c32f388e014
+Merge: 5a4d754 306cc68
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 20:43:59 2024 -0400
+
+    git pushMerge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 5a4d754b3c4279722af41c729dd1e749c505d6ba
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 20:43:46 2024 -0400
+
+    Attempted to fix memory leak in loading board
+
+commit 306cc685173b6baa3de5506c184a398575bbfc7e
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Thu Apr 25 20:37:04 2024 -0400
+
+    working on memory
+
+commit dee4b94c67f777e415aac6517638d7b97b7664dd
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Thu Apr 25 20:14:45 2024 -0400
+
+    fixing memory issues
+
+commit b3f58a80373eb9d60f9fac6087a14a7b654cd405
+Merge: 4533f52 151b45f
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 20:09:12 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 4533f52b81bcbeaace7efbe2748e936274d679a3
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 20:08:27 2024 -0400
+
+    Trying to fix game load error
+
+commit 151b45f1be7fdf04b9df10a9b06a9d71a190fa80
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Thu Apr 25 20:06:19 2024 -0400
+
+    working on destructor
+
+commit 50770f912eb116420d6eeabad24cff8fa2805ce4
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Thu Apr 25 14:45:26 2024 -0400
+
+    merge
+
+commit 2159d97b7db2b650f4cba349a49c55984e5817ff
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 14:40:38 2024 -0400
+
+    Revert "trial version"
+    
+    This reverts commit b0f38f3852a8b87f9e4be6147d707a76a5cec522.
+
+commit d2f47dab689403ada04d17ec22aff29c4a3be5fd
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 14:40:27 2024 -0400
+
+    Revert "fixed memory"
+    
+    This reverts commit 526c48fa3bee590b57410e1b2389601b88f277c4.
+
+commit e6a671f054042a2f0be577d375b3aeaaf45d4000
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 14:40:16 2024 -0400
+
+    Revert "fixed memory"
+    
+    This reverts commit f77fd2e6a52547d47ea392b1f6c433242e36ae27.
+
+commit 694d0a4e920fad0e046a25d8c309aa27a75ed6b9
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 14:39:58 2024 -0400
+
+    Revert "fixed memory issues"
+    
+    This reverts commit 1ffdde1175480cbbbe45247a217b837b488d0803.
+
+commit 43574a351127192ef5175dba9fff07ab5ffe0082
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 14:39:45 2024 -0400
+
+    Revert "removed comments"
+    
+    This reverts commit c15cf67ca28bb9c9e751374de2ba68b76cb0a942.
+
+commit 33569a438cbe99dbb79d8e592385847173a11422
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 14:39:23 2024 -0400
+
+    Revert "fixed errors"
+    
+    This reverts commit 2a6a59a6a5571d919ed2815bbcdd52a25bc8a72d.
+
+commit 3ffb0ed5c45075b8e0d81addb1706c9c328bd7b3
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 14:39:08 2024 -0400
+
+    Revert "fixed error"
+    
+    This reverts commit 453cfafb25e1e216402e290154c97ba0600c0009.
+
+commit 274d338287a2e35616824ad1b415f5b8754cefb2
+Merge: 2246c73 453cfaf
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 14:24:54 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 453cfafb25e1e216402e290154c97ba0600c0009
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Thu Apr 25 14:24:33 2024 -0400
+
+    fixed error
+
+commit 2a6a59a6a5571d919ed2815bbcdd52a25bc8a72d
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Thu Apr 25 14:24:17 2024 -0400
+
+    fixed errors
+
+commit c15cf67ca28bb9c9e751374de2ba68b76cb0a942
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Thu Apr 25 14:22:13 2024 -0400
+
+    removed comments
+
+commit 2246c73538265987bc1332380b856ae3f9179c9a
+Merge: 4fbb616 1ffdde1
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 14:21:56 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 1ffdde1175480cbbbe45247a217b837b488d0803
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Thu Apr 25 14:19:56 2024 -0400
+
+    fixed memory issues
+
+commit 4fbb61642b70847227049ca1708192e575096618
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 14:10:16 2024 -0400
+
+    Reapply "trial version"
+    
+    This reverts commit 10bf073c853bf5cd544a744caf44859b55bfff9a.
+
+commit 0d4000c051e7942a7b55fc005a6fccd448973534
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 14:09:35 2024 -0400
+
+    Revert "Restored to previous version for debugging purposes"
+    
+    This reverts commit 73a7b28f7f5a913a8ed33c0efc34381515f66078.
+
+commit f77fd2e6a52547d47ea392b1f6c433242e36ae27
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Thu Apr 25 13:53:53 2024 -0400
+
+    fixed memory
+
+commit 526c48fa3bee590b57410e1b2389601b88f277c4
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Thu Apr 25 13:53:39 2024 -0400
+
+    fixed memory
+
+commit 73a7b28f7f5a913a8ed33c0efc34381515f66078
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 13:49:33 2024 -0400
+
+    Restored to previous version for debugging purposes
+
+commit 10bf073c853bf5cd544a744caf44859b55bfff9a
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Thu Apr 25 13:49:03 2024 -0400
+
+    Revert "trial version"
+    
+    This reverts commit b0f38f3852a8b87f9e4be6147d707a76a5cec522.
+
+commit b0f38f3852a8b87f9e4be6147d707a76a5cec522
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Wed Apr 24 22:11:18 2024 -0400
+
+    trial version
+
+commit b260a22383b3749140165e36e0fdfe1f6ddbf21e
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Apr 24 15:48:10 2024 -0400
+
+    Attempted to fix promotion issues
+
+commit 3c451b24af0bec18f711fb4f07351defb6962c82
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Apr 24 15:12:21 2024 -0400
+
+    Fixed stalemate function
+
+commit 3a293f97bcc94dea9a04d6730587e29db515fd4c
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Apr 24 14:30:54 2024 -0400
+
+    Further updates to UI in display
+
+commit 39b3f9dcff3dd92c46b5316a9abf192e7f9f4bf5
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Apr 24 14:17:07 2024 -0400
+
+    Implemented mystery piece
+
+commit b53c9ff22c81826202c666fe1de0e361b9df1be7
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Wed Apr 24 13:39:01 2024 -0400
+
+    made sure mystery piece can function
+
+commit 794768c1936303780910ca857b5c7d017e9f715d
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Wed Apr 24 13:34:05 2024 -0400
+
+    fixed makefile bugs
+
+commit 09f8584a067f8a0b968bcb39d9565920fded789a
+Merge: a106120 ec28a82
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Apr 24 13:30:50 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit a106120eac9ac9f78ed7aa8acb91564087ba26f0
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Apr 24 13:30:47 2024 -0400
+
+    Annotated display and fixed newline issue
+
+commit ec28a824ba9eb5e1ed456baa8836474741debd50
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Wed Apr 24 13:30:38 2024 -0400
+
+    fixed bug with knight
+
+commit 1a5e2d4ebb3eb9a1e1a583af4526fbb790d5f9cf
+Merge: a5adc4c dbebae6
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Apr 24 13:18:07 2024 -0400
+
+    Implemented colorful display
+
+commit a5adc4c6fd2294bb5d7a4c8d3c47f84744918ab7
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Apr 24 13:14:09 2024 -0400
+
+    Fully implemented display with custom colorful board
+
+commit dbebae6137564e663d586547d4800a351be7774d
+Merge: 50373ac a597009
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Wed Apr 24 13:08:57 2024 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 50373ac5dfe987c4a81e4cc4a2afd89cc0a390e2
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Wed Apr 24 13:08:27 2024 -0400
+
+    fixed checkPathClear and getCapture
+
+commit a5970096874a82cf4578dccc5cfceaedf015d6f6
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Wed Apr 24 12:06:05 2024 -0400
+
+    add board
+
+commit 536444861c6d9b682cfa66eca487bac6f97a945c
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Wed Apr 24 10:56:32 2024 -0400
+
+    debugging in_check
+
+commit 03001011f4a958874a55001d8ef306aba454eda9
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Wed Apr 24 10:33:43 2024 -0400
+
+    Fixed point-value function
+
+commit 39d311f6c29800e3e649e4f1d555bc58623dcd10
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Wed Apr 24 10:23:21 2024 -0400
+
+    fix in_check and other functions relating to it
+
+commit 27041a72b30591ae7a53acdee6d93a9ade898d08
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Wed Apr 24 10:09:49 2024 -0400
+
+    removed comments
+
+commit db82637d8189a7f0170912d626ef3194a562c2ac
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Wed Apr 24 10:08:50 2024 -0400
+
+    removed comments
+
+commit e424c64bbc92846907043cd501903c94a0a7a00d
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Wed Apr 24 10:05:50 2024 -0400
+
+    fixing Game.cpp
+
+commit a3ec5ea95b73a291b20d18ae99339671c0e484e7
+Merge: dca6baf dba1fba
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Wed Apr 24 10:04:18 2024 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit dca6baf73dcd88938a9999d61920da6ade20f39c
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Wed Apr 24 10:00:10 2024 -0400
+
+    fixed bugs
+
+commit 674048b7aa7410f58757c8d3e38b389f531d3cb0
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Wed Apr 24 09:58:36 2024 -0400
+
+    fixing bugs in Game
+
+commit cc05dc5b335b1ac12c695cb482213db61e060630
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Wed Apr 24 09:57:33 2024 -0400
+
+    making bug fixes
+
+commit dba1fbaf0cf5b63117083dd248b26cceb18d783b
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Apr 23 23:05:38 2024 -0400
+
+    Fixed loading game from saved file
+
+commit 40c43726b8e6ced664dd66f06d41e655b1ed5e96
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Apr 23 19:48:24 2024 -0400
+
+    Fixed make_move so players switch after each turn
+
+commit d58f2b66d0a7c4d7a70eab77767e1107981e0e29
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Apr 23 16:13:48 2024 -0400
+
+    Added overridden = operators for board and game
+
+commit 57237241a2fd24fc698bc7e6e96a6843f9c3c1dd
+Merge: 87922fc c953d5e
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Apr 23 15:38:39 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 87922fc2b430efd5da7676d619e4a562192d7f7d
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Apr 23 15:38:36 2024 -0400
+
+    Typo in board
+
+commit c953d5efcc143ec719464df54202caa51c498696
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Tue Apr 23 15:38:24 2024 -0400
+
+    clean all the .o file
+
+commit f6e8642b475ab9a7203ef0091d46f6013fea44f0
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Tue Apr 23 15:35:20 2024 -0400
+
+    fixed bugs
+
+commit 4762eb8d6118b159bc49be508be917a62b145261
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Apr 23 15:28:58 2024 -0400
+
+    Fixed rook movement
+
+commit 5329ab7b75ee8114e5350a57034572f53576d4cc
+Merge: f89a651 c939fd0
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Apr 23 15:24:23 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit c939fd02360c618c51c77070a44e10fdb1ae97df
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Tue Apr 23 15:24:08 2024 -0400
+
+    fixing bugs in main
+
+commit f89a651ccf9d96c5de2dc8ee4834d974222fa7f7
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Apr 23 15:24:06 2024 -0400
+
+    Fixed issue where pawn could not move 2 square on the first move
+
+commit f10d15c6aa76da64fa735a3f9c0c1faab275458b
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Tue Apr 23 15:22:33 2024 -0400
+
+    fixed make move bug
+
+commit 8f0f199a587f84905f1560ece55289abd3d884e7
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Tue Apr 23 15:21:45 2024 -0400
+
+    fixed make move bug
+
+commit b9d511f2ecf8518b79b1810a9270aba97701eaaf
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Tue Apr 23 15:13:56 2024 -0400
+
+    fixed bugs
+
+commit 05de6e6fd90b5f2942a42e91222ab31b362b0d04
+Merge: 2a9f435 027edcf
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Tue Apr 23 15:10:59 2024 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 2a9f4354e941b3a07b341add17079f65fd8f39da
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Tue Apr 23 15:10:56 2024 -0400
+
+    fixing bugs
+
+commit 027edcf24e48e8a435634514bf6cefae2dcf50cf
+Merge: ce7526b dae2adf
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Apr 23 14:53:54 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit ce7526b898d7c1909fca6b8106e19cfd4fe5b99b
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Tue Apr 23 14:53:52 2024 -0400
+
+    Fixed Board operator()
+
+commit dae2adf94cb330175fa8812f8db75b08dadb016b
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Tue Apr 23 14:42:29 2024 -0400
+
+    finished README
+
+commit 2b47047cd6ff949acbb07c820f5070615c49478d
+Merge: 5297e51 dee4a3e
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Apr 22 22:28:46 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 5297e5101ec0aac3733d7371ca19717b45392707
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Apr 22 22:28:43 2024 -0400
+
+    Debugged board functions
+
+commit dee4a3ea9ca378caf07a018c1c651d5e2c25967f
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Mon Apr 22 22:28:11 2024 -0400
+
+    fixing errors in Game.cpp
+
+commit a63e39f62eb711162843dc05ace911e31637b4fa
+Merge: c42caf4 a3cca4a
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Mon Apr 22 22:08:19 2024 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit c42caf4010f8078b69963328f5a65d49afe7f773
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Mon Apr 22 22:08:08 2024 -0400
+
+    fixing minor formatting issues
+
+commit a3cca4afbc40aa0f6702534793aea44842f3c012
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Apr 22 22:01:52 2024 -0400
+
+    Fixed Knight and Queen
+
+commit f0e3644eb67023222008bdd16c86eda1cdc4dd2a
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Apr 22 21:57:59 2024 -0400
+
+    fixed knight
+
+commit 88dbef569f40c6fc0fba8ac335ad56b11c086caa
+Merge: 840bb35 b37e468
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Apr 22 21:56:10 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 840bb355133fef23284f813963e1da3fd782f5c5
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Apr 22 21:56:04 2024 -0400
+
+    fixed Queen
+
+commit b37e468b24eb447addfa64626cd8bc6a0529cb90
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Apr 22 21:53:16 2024 -0400
+
+    Fixed board iterator
+
+commit 847a2c8a258b2d63dd75ab0fe5376210b10bad75
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Apr 22 12:49:41 2024 -0400
+
+    finishing implementing in_mate and stalemate
+
+commit 7db97538fcf8947c8db45de49d5ec64a536ed8e4
+Merge: 1ec70a6 8d8d77c
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Apr 22 11:18:57 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 1ec70a6ae8a0c3a95271e717278036fee99ee982
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Mon Apr 22 11:18:48 2024 -0400
+
+    in_mate fixing
+
+commit 8d8d77cb5d34581d034ca8d53b7d5908f1b61693
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Mon Apr 22 11:16:20 2024 -0400
+
+    added pawn-to-queen and can't capture king functionality
+
+commit 52bd3920ad940714187e95b1d0a331cd8b1c50ed
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Apr 22 10:54:09 2024 -0400
+
+    Added check for valid kings when loading a board from file
+
+commit 870479ec8e5dffe5b2eecc893c64ebc6d47f208e
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Mon Apr 22 10:35:31 2024 -0400
+
+    Fixed errors in board
+
+commit e59fcae9b6a9c881d8e59d103e23e503083bf0b7
+Merge: 4d2d23a 4a7fca5
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Mon Apr 22 10:05:31 2024 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 4d2d23a7347a8562764efa1c07a4f3e1b1aaacde
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Mon Apr 22 10:05:23 2024 -0400
+
+    refractored check path clear in between
+
+commit 4a7fca5ba61d82fdd030a0c67920f71919660612
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sun Apr 21 16:11:00 2024 -0400
+
+    commented display
+
+commit 3b1e0b23c6902edd8074349afda432556ff48d79
+Merge: 159b74a dd09a21
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sun Apr 21 16:05:59 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 159b74aa9922c89b2d7e4b8125b55e53d22244fb
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sun Apr 21 16:05:51 2024 -0400
+
+    fixed display()
+
+commit dd09a215638bc6dc2951380419cee3dc8a63b173
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Sun Apr 21 16:05:34 2024 -0400
+
+    refracted check clear path in make move
+
+commit 842863d30385280dea695d68774d935b73a88249
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Sun Apr 21 15:57:06 2024 -0400
+
+    fixed unnecesary variables
+
+commit 27abcb3fc4ba6ee5ef1d0145dfa179b2903fe4bf
+Merge: c180017 a1c0d22
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Sun Apr 21 15:45:46 2024 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit c18001799813ec4c860faaa9618260bf15cc5edf
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Sun Apr 21 15:45:43 2024 -0400
+
+    finished make move func
+
+commit a1c0d22f6325f06ba974d0518ad209d02aab648e
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Apr 21 15:40:21 2024 -0400
+
+    Added point_value functions to all of the pieces
+
+commit 840bafe8cfa6a1a0048afcb3fa4b24f4ae6cce6b
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Apr 21 15:32:45 2024 -0400
+
+    Fixed iterator in board
+
+commit 734cd5f691207c5069f2779d89a813411ef17c2e
+Merge: 3df5005 e7c0b74
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Apr 21 15:27:35 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 3df50052efdd24996b3c35444194ba3293e3ef48
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sun Apr 21 15:27:14 2024 -0400
+
+    Implemented >> and point value functions for board
+
+commit e7c0b744ce773b0f62135a351c37851acdc4f7a4
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Sun Apr 21 15:10:25 2024 -0400
+
+    working on game.cpp and game.h
+
+commit 8744f6f7d7818498c7b01202e922222b9c94623f
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Sun Apr 21 14:25:36 2024 -0400
+
+    added horizontal move check empty path functionality
+
+commit 2180926bddff3841e7495f82252119d7b9c4eff2
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Apr 20 18:53:31 2024 -0400
+
+    Implemented board iterator and remove_piece
+
+commit 3fed08c45cc11a54265efae0857333f8a3105923
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sat Apr 20 18:24:47 2024 -0400
+
+    implementing in_check and in_mate
+
+commit f117ba46551729a8bc6115322af360862cdc7a86
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sat Apr 20 17:13:19 2024 -0400
+
+    continuing implementing check_mate
+
+commit 887862461680d351bbf3c357a17d4728e384bcb6
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Apr 20 17:12:29 2024 -0400
+
+    Fixed Pawn.cpp
+
+commit 517cb6e122c9739e3efddca5012ec1a52426b091
+Merge: 3053c0c 7f39f6c
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sat Apr 20 16:57:08 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 3053c0c1fbaeb1490f609540e5e8c95b0dc6ad28
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sat Apr 20 16:57:05 2024 -0400
+
+    implementing in_mate
+
+commit 7f39f6c770fd8e398706ba5933d431fa3a7fd1d3
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Sat Apr 20 16:48:47 2024 -0400
+
+    added check valid capture functionality to make move
+
+commit d4d5828077a8399980b1dc32d3eb29bb86241068
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Sat Apr 20 16:13:00 2024 -0400
+
+    working on make_move
+
+commit 2e12f3618c32b980f644c4c04069558e1c734d72
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Apr 20 15:30:27 2024 -0400
+
+    Fixed Board.cpp
+
+commit cd5687181201d9e1620633f62e1159aade9868fb
+Merge: 1f146fb 0ed2025
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Apr 20 15:25:49 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 1f146fb0187713917c51e93a0d1ddc9e387e3d2b
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Apr 20 15:25:00 2024 -0400
+
+    Board
+
+commit 0ed20257a7d40121b25414800fd19687bfe3c422
+Merge: a0bd8ad d67db32
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Sat Apr 20 15:21:23 2024 -0400
+
+    Added to make move function
+    
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit a0bd8ada3b1023a824d0026a9119f548a6413dc2
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Sat Apr 20 15:21:21 2024 -0400
+
+    working on make move functions
+
+commit d67db32c62f46d1afa68094ab05ed99aff088bda
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sat Apr 20 14:55:13 2024 -0400
+
+    implemented in mates
+
+commit e14075570111404f0986197286ed02684eecfddf
+Merge: 5bdbd82 ad64b26
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sat Apr 20 14:40:03 2024 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit 5bdbd828a9738f530d5c73b056bff152a1214cf7
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sat Apr 20 14:39:38 2024 -0400
+
+    implementing functions in Game.cpp
+
+commit ad64b26ea403594382ddc63f6eaea151d78abfd3
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Sat Apr 20 14:32:35 2024 -0400
+
+    added comments to the make_move func
+
+commit c87d5da0796ec2423cba7d0dbfbec822e0c832de
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sat Apr 20 13:35:44 2024 -0400
+
+    fixed Queen and implemented functions in Knight.cpp
+
+commit 0dc24f9908082f35f2409b5a2091826295c7c036
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Apr 20 13:14:54 2024 -0400
+
+    Edited pawn and rook functions and implemented all board functions
+
+commit 51543ec1c2375336d31b0447058025a7ce9ef205
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sat Apr 20 12:42:56 2024 -0400
+
+    implemented and commented functions in Queen.cpp
+
+commit 72d9f7993e1e985136a13cc70549b5ab286f3a2b
+Merge: ac3ef04 d4214b3
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Sat Apr 20 12:15:58 2024 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2024-spring-final-aalme2-bdong9-kwang124
+
+commit ac3ef04baabda463c6d3fbb647795dc4797ee22e
+Author: Kelvin <kelvin18wang@gmail.com>
+Date:   Sat Apr 20 12:12:18 2024 -0400
+
+    added legal-mv-shp for king and bishop and comments in game.cpp
+
+commit d4214b3210c063f5baf9d222ff8134fd8f7e184b
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Apr 20 11:52:25 2024 -0400
+
+    Implemented check move shape and check capture shape functions for Pawn.cpp
+
+commit 0f12f21c47f22e85d7dad8bc9ad55e503a956c7a
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Apr 20 11:25:50 2024 -0400
+
+    Implemented valid move function for rook
+
+commit 08aa29bfd99f4edefdeb7930bf2f7a8246070b93
+Author: Aidan Alme <aalme2@ugradx.cs.jhu.edu>
+Date:   Sat Apr 20 11:11:14 2024 -0400
+
+    Created cpp files for all of the pieces
+
+commit 03424709c2c8f32ddc94c175943d8f8840727c94
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Sun Apr 14 22:00:02 2024 -0400
+
+    copied everything from the public repo
+
+commit b1a7b4316842d93c736b4103760664d184f05f1d
+Author: bobdong01 <bdong9@jh.edu>
+Date:   Fri Apr 12 19:45:01 2024 -0400
+
+    initial commit readme
